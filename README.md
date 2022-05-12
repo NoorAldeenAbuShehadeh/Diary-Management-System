@@ -10,5 +10,7 @@ When we run the application the Login Page is first sited, but we didn't registe
 ![Signup Page](https://user-images.githubusercontent.com/105460398/168178351-a03b10ff-d8a3-4c14-8e47-736aeb89cf63.jpg)
 
 In the Signup Page we fill up the information required and we have to take in mind the restrictions of each attribute.
-1. 1. We have to enter a valid email (contains '.com','@',no spaces etc...)
-   2.
+1. 1. We have to enter a valid email (contains '.com','@',no spaces etc...).
+   2. We have to enter a valid username (contains only Letters,Digits,'-','.',' _ ').
+   3. We have to enter a valid password ![Password Conditions](https://user-images.githubusercontent.com/105460398/168179354-9e67c15c-c5e0-4eb3-b166-0c0fb2267046.jpeg)
+
