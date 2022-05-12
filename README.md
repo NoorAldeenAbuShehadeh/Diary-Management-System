@@ -11,4 +11,4 @@ When we run the application the Login Page is first sited, but we didn't registe
 
 In the Signup Page we fill up the information required and we have to take in mind the restrictions of each attribute.
 1. 1. We have to enter a valid email (contains '.com','@',no spaces etc...)
-1. 2.
+2.
