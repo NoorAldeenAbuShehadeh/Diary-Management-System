@@ -5,7 +5,7 @@
 
 When we run the application the Login Page is first sited, but we didn't register in the system yet so we need to Signup first.
 
--Signup:
+- Signup:
 
 ![Signup Page](https://user-images.githubusercontent.com/105460398/168178351-a03b10ff-d8a3-4c14-8e47-736aeb89cf63.jpg)
 
@@ -25,7 +25,7 @@ In the Signup Page we fill up the information required and we have to take in mi
 4. the user is brought again to 'Login' Page.![loggggggggin](https://user-images.githubusercontent.com/105460398/168325507-e7c07205-92b3-439e-8e02-a8d4e76c4d0e.jpg)
 
 
--Login:
+- Login:
 
 1. The user can login to the system by entering either a username or email, and a correct password.
 (The database checks for a valid'username or email' , and then checks for a correct matching password). 
@@ -33,7 +33,7 @@ In the Signup Page we fill up the information required and we have to take in mi
 (invalid password)![inpass](https://user-images.githubusercontent.com/105460398/168326874-0536af3b-8758-46f2-84eb-9487dd738154.jpg)
 2. the user entered the system. ![homee](https://user-images.githubusercontent.com/105460398/168327001-70bbf470-8ad0-4ab6-a4f1-9e47cf8ba602.jpg)
 
--Forgot Password:
+- Forgot Password:
 
 1. If the user forgot his password he can press on 'Forgot password?' and he is then sent to 'Forgot Password' Page ![loggggggggin](https://user-images.githubusercontent.com/105460398/168327441-e2aefe9b-6a58-44bd-b684-1702ccc32b27.jpg) ![4gotpass](https://user-images.githubusercontent.com/105460398/168327520-7f7211e1-fcd7-4409-b4d3-c9628ef8a3bf.jpg)
 
@@ -41,12 +41,13 @@ In the Signup Page we fill up the information required and we have to take in mi
 
 
 - Home Page:
-1. When the user log in the following page is first encountered
-![homescreen](https://user-images.githubusercontent.com/105460398/168328402-659e3c2c-1a92-4f10-8773-47d6d7e3fbd6.jpg)
+1. When the user log in the following page is first encountered. ![uybuvebeubv](https://user-images.githubusercontent.com/105460398/168383034-57c495a7-300c-405f-af88-122ed123c6be.jpg)
 
-(we will indicate parts of the page with colors so we could explain what each part represents)
 
-![homescreenedited](https://user-images.githubusercontent.com/105460398/168328866-f3e2bc39-f1df-439b-97f2-e6fcc7330831.jpg)
+
+(we will indicate parts of the page with colors so we could explain what each part represents)![homescreen](https://user-images.githubusercontent.com/105460398/168382432-12c05704-3151-48dc-ab14-e20212a16a5c.jpg)
+
+
 
   
   1. (As we can see on the left we have a bar with a bunch of icons pressing the menu icon 'indicated in yellow' would display a slider that describes the functionality of each icon).![menuslider](https://user-images.githubusercontent.com/105460398/168329282-d8dc1821-b35f-414c-9a84-d8d232acbd5b.jpg)
@@ -58,7 +59,8 @@ In the Signup Page we fill up the information required and we have to take in mi
 
 - Profile Page:
 
-1. The user can access his profile page from pressing on profile icon.![homescreenprofile](https://user-images.githubusercontent.com/105460398/168334333-8933e4d9-846c-47b6-84ee-36a94af2fb07.jpg) 
+1. The user can access his profile page from pressing on profile icon.![homescreen](https://user-images.githubusercontent.com/105460398/168382596-8d15675d-5bb3-43d2-beda-3522e9b6457e.jpg)
+
 
 ![profile](https://user-images.githubusercontent.com/105460398/168334395-a0f057a6-a675-4457-aa0e-2be06b4a2449.jpg)
 
@@ -67,15 +69,17 @@ In the Signup Page we fill up the information required and we have to take in mi
 4. pressing on 'My Information' would change the panel again to its previous one.
 
 
--Calender:
+- Calender:
 
-1. the user can access the calender by pressing the calender icon from the bar 'indicated in blue'.![profilepage0000001](https://user-images.githubusercontent.com/105460398/168335515-f38a3753-2622-4454-90a0-b04e58c9b355.jpg)
+1. the user can access the calender by pressing the calender icon from the bar 'indicated in blue'.![invirnvindivr](https://user-images.githubusercontent.com/105460398/168383212-d4d3770c-6fc3-4bfa-b373-5e50dcbdf1cb.jpg)
+
 2. The calender Page is displayed.![calenderhome](https://user-images.githubusercontent.com/105460398/168335657-efacd41f-04e0-4a68-84ea-e7620c18dd4a.jpg)
 
 3. On the left side the user can search for his diaries.![calendersearch](https://user-images.githubusercontent.com/105460398/168336230-85c392bf-72c0-4cf0-a4d6-1adc1cde98bb.jpg)
 
 4. the user can click on one of the diaries he has searched for to display its information.![diarysearch](https://user-images.githubusercontent.com/105460398/168336808-07511098-3924-4745-a099-32db39d2c0c5.jpg)
-5. Since the label 'indicated in blue' shows which month and year we are in (by default it is the month and year on your computer) you can add a diary by pressing on any day of the month (you can change the month and year be pressing on their buttons too).![wqdqwdq](https://user-images.githubusercontent.com/105460398/168337403-2cc06427-9098-4a2e-a69f-599dc14f3709.jpg)
+5. Since the label 'indicated in blue' shows which month and year we are in (by default it is the month and year on your computer) you can add a diary by pressing on any day of the month (you can change the month and year be pressing on their buttons too).![isncidnscidsd](https://user-images.githubusercontent.com/105460398/168383346-066f8c31-ebb0-4559-96e5-f054704a4345.jpg)
+
 
 ![month](https://user-images.githubusercontent.com/105460398/168337793-b011d140-be1a-4505-a4ad-5f1a95217296.jpg)
 ![year](https://user-images.githubusercontent.com/105460398/168337815-32828dcf-9121-4b92-bb64-56e8bdfcf172.jpg)
@@ -107,9 +111,66 @@ In the Signup Page we fill up the information required and we have to take in mi
 
 
 
--Groups:
+- Groups:
 
 
+1. the user can access groups by pressing the groups icon from the menu bar 'indicated by blue'.![dawdaadw](https://user-images.githubusercontent.com/105460398/168374328-bdef72fc-2b62-4081-b164-986777870349.jpg)
+
+   1. on the right edge the user can search for his groups (is an admin/member) the same way he could search for diaries like mentioned before.
+   2. at the middle the user can search for public groups (this functionality is provided because there are things like 'institutions and so on' which the system provide to be public).
+   3. and the user can check for invites from other groups so he could join from the icon 'indicated by blue'.![groups](https://user-images.githubusercontent.com/105460398/168373987-a9bed0f2-e2c4-451f-82f5-e3f031a48952.jpg) (When pressed the panel for search groups would change for the following panel where the user can accept invites or delete them) ![acceptint](https://user-images.githubusercontent.com/105460398/168374651-d5e832c9-0e46-422c-85ae-a6c171c045ec.jpg)
+
+
+
+2. the user can access any of his groups by pressing on its name, and it will open up the group chat.![group](https://user-images.githubusercontent.com/105460398/168374959-89b56fa8-b4ba-4fc9-9d79-726534bc1c0c.jpg) 
+3. the user can access the group information by pressing on the groups name (and can edit them if the user is an admin of the group) 'indicated in yellow'.![chat](https://user-images.githubusercontent.com/105460398/168375413-c1f4fc0e-6a5a-4344-9386-a808f964cc85.jpg)
+
+(if the user was an admin he can change the group's name, description, group's image, group's privacy, if the members of the group can send messages through chat or only the admin, if the members can add diaries to the group or to only display the diaries added by the admin, if the user wan an admin of the group he can add members 'which means that they will receive an invitation to the group' or View requests to join the group 'only possible if the group is public' or View members of the group 'if another user is invited but yet not accepted he will show up incase the admin want to delete him or in other words cancel his invitation').![rd dvdvd](https://user-images.githubusercontent.com/105460398/168376239-7ca0d84e-8945-44f5-acf6-88f8e23096ca.jpg)
+
+(the following page will pop up when we press on 'Members' to view members of the group)![members](https://user-images.githubusercontent.com/105460398/168377996-df1d5af8-c8dd-4f09-b39c-3510cb211734.jpg)
+
+
+
+
+4. the user can access the group calender by pressing on the icon 'indicated in blue' (the group's calender is like the personal calender that we explained before).![cece](https://user-images.githubusercontent.com/105460398/168376146-e1e3d0a3-21d3-4897-a38c-7458dffa827d.jpg)
+
+(if the user was not an admin of the group and he wasn't given permission to add diaries his page would be displayed like the following)![membrrrrrrrrer](https://user-images.githubusercontent.com/105460398/168378319-9d9383e5-7f43-43f5-b5b9-842bd7069f80.jpg)
+
+5. the user can create a new group by pressing the icon 'indicated in blue'.![ceavrdv](https://user-images.githubusercontent.com/105460398/168378605-086afe82-eb90-486f-9a23-6bee3eac5700.jpg)
+
+(the following page would pop up, so the user can fill the new information and he can edit them later on).![dbfdbd](https://user-images.githubusercontent.com/105460398/168378787-dd4e3cc1-426c-4e21-bdba-b92923c21cec.jpg)
+
+
+- invitation: 
+
+1. the user can access the invitations Page from pressing the icon 'indicated in blue'.![evrgvege](https://user-images.githubusercontent.com/105460398/168379034-0e27c7b3-7c0f-409c-bf6c-133d405c86d5.jpg) (the following page would be displayed) ![cuwbecwubc](https://user-images.githubusercontent.com/105460398/168379100-a1ce769e-b868-42c2-928b-c51dc881c134.jpg)
+
+2. the user is intoduced with various options for invitations.
+   -the user can create an invitation (different types of invitations each of them has there own unique templates).
+      1. Party invitation.
+      2. BirthDay invitation.
+      3. Wedding invitation.
+(upon pressing on any of the templates it will create a new card and the following page would pop up so the user can fill the invitation information).![ivenrivenire](https://user-images.githubusercontent.com/105460398/168380134-6efdafea-59e0-4823-8b2b-6ea7ed1cfafa.jpg)
+(if the user enters a '#' in the 'Receives Username' the card will be saved and it will not be sent to anyone).
+    -the user can display his cards
+
+the user can display the invitations he sent by pressing on 'Show My Cards'(if the user presses on the invitation itself it will be saved on his computer). ![ivneirev](https://user-images.githubusercontent.com/105460398/168380985-68087bd5-8cfa-4425-b755-41820838505f.jpg)
+    -the user can display the invitations he received
+
+when the user presses on 'My Invitations' the page will display invitation cards that has been sent to the user and by pressing on them it will be saved on his computer ![wcuwbeucwu](https://user-images.githubusercontent.com/105460398/168381350-8b011a0f-c494-4bc8-ab33-90a2a8e23eed.jpg)
+
+
+
+
+
+
+
+
+- Logout
+
+the user can log out of the system by pressing 'out, indicated in blue' in the menu bar.![ywetwyfdtewtftw](https://user-images.githubusercontent.com/105460398/168381632-bc9b0535-4ccd-49d8-9eb2-0695638ec077.jpg)
+
+   
 
 
 
