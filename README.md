@@ -1,4 +1,7 @@
 # DiaryManagementSystem
+A desktop application that organizes user's events, notes and memos into their own calendar. Application can send alerts when certain events are approaching. Additionally, you can have dozens of invitation cards that users can create for various events and share with users inside and outside the application. 
+ The application also includes creating a public or private group that brings together a number of users in a chat dedicated to group members, in addition to a group calendar that all users can modify.
+
 - Login and Signup 
 
 ![cd0e137f-f80d-4e39-8417-f70897de68d7](https://user-images.githubusercontent.com/105460398/168177300-ee755f9c-c67b-4f10-a48e-e3e7738181b1.jpeg)
